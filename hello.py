@@ -1,0 +1,1 @@
+kroon = int(input('kroon: '))
